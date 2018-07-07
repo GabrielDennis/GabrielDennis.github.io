@@ -6,7 +6,7 @@ A Simple portfolio which gives a simple insight about my educational and profess
 
 Build using Bootstrap,
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+**[View Live Preview](https://gabrieldennis.github.io/)**
 
 
 ## Copyright and License
